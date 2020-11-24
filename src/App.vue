@@ -1,7 +1,7 @@
 <template>
   <!-- class to center image -->
   <img class="mx-auto" alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Welcome to Your Vue.js App" />
+  <HelloWorld msg="Welcome to Your Vue.js v3 + TailwindCSS v2 App" />
   <p class="text-xl text-blue-500 font-bold my-4">This is a blue text</p>
   <button class="btn-green">Action</button>
 </template>
