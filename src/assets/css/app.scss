@@ -1,0 +1,13 @@
+// Imports TailwindCSS
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+// Add you custom styles here
+// or use this file to create Tailwind components using the
+// @apply directive */
+@layer components {
+  .btn-green {
+    @apply p-2 border text-white bg-green-500;
+  }
+}
